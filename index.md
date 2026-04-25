@@ -1,8 +1,9 @@
 ---
-title: Deep Learning (CAS machine intelligence, 2025) 
+title: Deep Learning (CAS machine intelligence, 2026) 
+nav_order: 1
 ---
 
-# Deep Learning (CAS machine intelligence, 2025) 
+# Deep Learning (CAS machine intelligence, 2026) 
 
 This course in deep learning focuses on practical aspects of deep learning. We therefore provide jupyter notebooks ([complete overview of all notebooks](https://github.com/tensorchiefs/dl_course_2025/tree/master/notebooks) used in the course). 
 TODO: Update URL.
@@ -16,7 +17,7 @@ To easily follow the course please make sure that you are familiar with the some
 
 ## Info for the projects
 
-You can join together in small groups and choose a topic for your DL project. You should prepare a poster and a spotlight talk (5 minutes) which you will present on the last course day. To get some hints how to create a good poster you can check out the links that are provided below under "Guidelines for designing a good poster".
+You can join together in small groups and choose a topic for your DL project. You should prepare a poster and a spotlight talk (5 minutes) which you will present on the last course day. To get some hints on how to create a good poster you can check out the links that are provided below under "Guidelines for designing a good poster".
 
 If you need free GPU resources, we again refer you to the [instructions how to use google colab](co.md).  
 
@@ -37,7 +38,7 @@ Hints:
 
  
 
-**Fill in the Title and the Topic of your Projects until End of Week 5 [here](https://zhaw.sharepoint.com/:x:/r/sites/ZHAW-CLASS-DeptT-CASMAIN/Freigegebene%20Dokumente/DL/project-assignments-dl-fs26.xlsx?d=w610a5d96941b4827822ee3cbbbabc373&csf=1&web=1&e=K8MszJ)**
+**Fill in the Title and the Topic of your Projects until End of Week 4 [here](https://zhaw.sharepoint.com/:x:/r/sites/ZHAW-CLASS-DeptT-CASMAIN/Freigegebene%20Dokumente/DL/project-assignments-dl-fs26.xlsx?d=w610a5d96941b4827822ee3cbbbabc373&csf=1&web=1&e=K8MszJ)**
 
 ## Other resources 
 
@@ -56,14 +57,14 @@ The course is split in 8 sessions, each 4 lectures long. Topics might be adapted
 
 | Day  |      Date    |      Time    |   Topic
 |:--------:|:--------------|:---------|:---------------|
-| 1        | 05.05.2026 | 09:00-12:30 | Introduction to Deep Learning & Keras, first NNs |
+| 1        | 05.05.2026 | 09:00-12:30 | Introduction to Deep Learning & Keras, Backpropagation, first NNs |
 | 2        | 12.05.2026 | 09:00-12:30 | Loss, Optimization, Regression, Classification    |
 | 3        | 19.05.2026 | 09:00-12:30 | Computer vision, CNN-archictecture  |
-| 4        | 26.05.2026 | 09:00-12:30 | DL in practice, pretrained (foundation) models  | 
+| 4        | 26.05.2026 | 09:00-12:30 | DL in practice, pretrained (foundation) models | 
 | 5        | 02.06.2026 | 09:00-12:30 | Model evaluation, baselines, xAI, troubleshooting  |
 | 6        | 09.06.2026 | 09:00-12:30 | Generative Models, Transformer-architecture   |
 | 7        | 16.06.2026 | 09:00-12:30 | Vision Transformer  |
-| 8        | 23.06.2026 | 09:00-12:30 | Projects, deep Ensembling   |
+| 8        | 23.06.2026 | 09:00-12:30 | Projects; AI fairness, responsibility |
 
 
 ## Provided Material 
