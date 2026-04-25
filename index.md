@@ -1,6 +1,8 @@
+---
+title: Deep Learning (CAS machine intelligence, 2025) 
+---
 
 # Deep Learning (CAS machine intelligence, 2025) 
-
 
 This course in deep learning focuses on practical aspects of deep learning. We therefore provide jupyter notebooks ([complete overview of all notebooks](https://github.com/tensorchiefs/dl_course_2025/tree/master/notebooks) used in the course). 
 TODO: Update URL.
@@ -19,7 +21,6 @@ You can join together in small groups and choose a topic for your DL project. Yo
 If you need free GPU resources, we again refer you to the [instructions how to use google colab](co.md).  
 
 Examples for projects from previous versions the DL course:
-  [2018, 2019](projects.md)
   [2020](https://docs.google.com/spreadsheets/d/1NXinRQMifg_QNQs1fyn5HeiZNRnTGnIy1W7-ij-jQhg/edit?usp=sharing)
   [2021](https://docs.google.com/spreadsheets/d/18VFrPbKq3YSOg8Ebc1q1wGgkfgaWl7IkcCClGEDGj6Q/edit#gid=0)
   [2022](https://docs.google.com/spreadsheets/d/1TZf5hKekzOlBC7J0-EAltGOMTuZyrDhHu3ANve0q6H4/edit#gid=0)
@@ -27,8 +28,8 @@ Examples for projects from previous versions the DL course:
   [2024](https://docs.google.com/spreadsheets/d/1drTY6DA2R5QQYk8mRvcPFx-lW98aOGLgppkMMweHZPM/edit#gid=0)
 
 Open Datasets: 
-- [papers with code](https://paperswithcode.com/datasets), 
-- [kaggle](https://www.kaggle.com/datasets).
+- [papers with code](https://paperswithcode.com/datasets)
+- [kaggle](https://www.kaggle.com/datasets)
 
 Hints: 
 - [Upload data to colab](https://colab.research.google.com/notebooks/io.ipynb)
@@ -36,7 +37,7 @@ Hints:
 
  
 
-**Fill in the Title and the Topic of your Projects until End of Week 5 [here](TODO: Update URL)**
+**Fill in the Title and the Topic of your Projects until End of Week 5 [here](https://zhaw.sharepoint.com/:x:/r/sites/ZHAW-CLASS-DeptT-CASMAIN/Freigegebene%20Dokumente/DL/project-assignments-dl-fs26.xlsx?d=w610a5d96941b4827822ee3cbbbabc373&csf=1&web=1&e=K8MszJ)**
 
 ## Other resources 
 
@@ -65,74 +66,17 @@ The course is split in 8 sessions, each 4 lectures long. Topics might be adapted
 | 8        | 23.06.2026 | 09:00-12:30 | Projects, deep Ensembling   |
 
 
-
-
 ## Provided Material 
 
-TODO: Update URLs and content titles (if necessary)
-- Day 1
-  - Slides:
-    - [01_DL_Introduction](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/01_2025_Introduction.pdf)
-  - Additional Material: 
-    - [Network Playground](https://playground.tensorflow.org/)
-  - Exercises:
-    - [00_Checking_Correct_Installation_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/00_Checking_Correct_Installation_keras_torch.ipynb) 
-    - [01_simple_forward_pass_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/01_simple_forward_pass_keras_torch.ipynb) 
-- Day 2
-  - Slides:
-    - [02_Regression_Classification_Loss](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/02_2025_loss_presented.pdf)    
-  - Exercises:
-     - [02_fcnn_with_banknote_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/02_fcnn_with_banknote_keras_torch.ipynb)
-     - [02_custom_loss.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/02_custom_loss.ipynb)
-- Day 3
-  - Slides:
-     - [03_CNN_intro](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/03_2025_CNN_presented.pdf)
-  - Additional Material:
-    - [What is a Kernel (Interactive) ](https://setosa.io/ev/image-kernels/)
-    
-     
-  - Exercises:
-    - [03_fcnn_mnist_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/03_fcnn_mnist_keras_torch.ipynb)
+### Day 1
 
-        **optional** (what happens if we shuffle the image?): [04_fcnn_mnist_shuffled_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/04_fcnn_mnist_shuffled_keras_torch.ipynb)
-      
-    - [05_cnn_edge_lover_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/05_cnn_edge_lover_keras_torch.ipynb)
-    
-       **optional** (what happens if we shuffle the image?):  [06_cnn_mnist_shuffled_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/06_cnn_mnist_shuffled_keras_torch.ipynb)
-    
-- Day 4
-  - Slides:
-     - [04_CNN_in_practice](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/04_2025_CNN_in_practice.pdf) 
-  - Exercises:
-     - [07_early_stopping_and_modelweights.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/07_early_stopping_and_modelweights.ipynb)
-     - [07_cifar10_tricks_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/07_cifar10_tricks_keras_torch.ipynb)
-     - [08_classification_transfer_learning_few_labels_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/08_classification_transfer_learning_few_labels_keras_torch.ipynb)    
+TODO: Update links
 
-- Day 5
-  - Slides:
-     - [05_2025_CNN_eval_xAI](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/05_2025_CNN_eval_xAI.pdf) 
-  - Exercises:
-     - [15_faces_regression_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/15_faces_regression_keras_torch.ipynb)
-   - Additional Excercise (caution this is mostly Tensorflow):
-      - [08_gradcam_and_occlusion_keras_TENSORFLOW.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/08_gradcam_and_occlusion_keras_TENSORFLOW.ipynb)
-
-- Day 6
-  - Slides:
-    - [06_GenAI_and_more](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/06_GenAI_and_more.pdf) 
-  - Exercises:
-      - [09_1DConv_sol.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/09_1DConv_sol.ipynb)
-- Day 7
-  - Slides:
-    - [07_ViT](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/07_ViT.pdf) 
-  - Exercises:
-      - [10_vit_explained.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/10_vit_explained.ipynb)
-      - [10_vit_feature_extraction.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/10_vit_feature_extraction.ipynb)
-
-- Day 8
-  - Slides:
-    - [08_deep ensemble](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/08_ensemble.pdf) 
-  - Exercises:
-    - [11_cifar10_ensemble_keras3_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/11_cifar10_ensemble_keras3_torch.ipynb)
+- Slides: [01_DL_Introduction]()
+- Additional Material: [Network Playground](https://playground.tensorflow.org/)
+- Notebooks:
+  - [00_Checking_Correct_Installation_keras_torch.ipynb]() 
+  - [01_simple_forward_pass_keras_torch.ipynb]() 
 
 
 ## Guidelines for designing a good poster
