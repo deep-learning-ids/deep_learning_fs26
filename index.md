@@ -5,19 +5,19 @@ nav_order: 1
 
 # Deep Learning (CAS machine intelligence, 2026) 
 
-This course in deep learning focuses on practical aspects of deep learning. We therefore provide jupyter notebooks ([complete overview of all notebooks](https://github.com/tensorchiefs/dl_course_2025/tree/master/notebooks) used in the course). 
-TODO: Update URL.
+This course in deep learning focuses on practical aspects of deep learning. We therefore provide jupyter notebooks ([complete overview of all notebooks](https://github.com/deep-learning-ids/deep_learning_fs26/tree/main/notebooks) used in the course). 
 
 
 For doing the hands-on part we recommend to use google colab <a href="https://colab.research.google.com/"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="20"></a>. You will need an internet connection and may also need a google account. See the [instructions how to use google colab](co.md).
 
-If you want to do work locally (e.g. in order to avoid needing an internet connection) you can install anaconda ([details and installation instruction](anaconda.md)). Please note that we are not experts in anaconda and thus can only give limited support. Some examples may require extra effort to run smoothly in a custom installation.
+If you want to do work locally (e.g. in order to avoid needing an internet connection) you can install anaconda ([details and installation instruction](co.md)). Please note that we are not experts in anaconda and thus can only give limited support. Some examples may require extra effort to run smoothly in a custom installation.
 
-To easily follow the course please make sure that you are familiar with the some [basic math and python skills](prerequistites.md).  
+To easily follow the course please make sure that you are familiar with some [basic math and python skills](prerequistites.md).  
+
 
 ## Info for the projects
 
-You can join together in small groups and choose a topic for your DL project. You should prepare a poster and a spotlight talk (5 minutes) which you will present on the last course day. To get some hints on how to create a good poster you can check out the links that are provided below under "Guidelines for designing a good poster".
+Your Leistungsnachweis for this course is a project. You can join together in small groups and choose a topic for your DL project. You should prepare a poster and a spotlight talk (5 minutes) which you will present on the last course day. To get some hints on how to create a good poster you can check out the links that are provided below under "Guidelines for designing a good poster".
 
 If you need free GPU resources, we again refer you to the [instructions how to use google colab](co.md).  
 
@@ -31,13 +31,13 @@ Examples for projects from previous versions the DL course:
 Open Datasets: 
 - [papers with code](https://paperswithcode.com/datasets)
 - [kaggle](https://www.kaggle.com/datasets)
+- Search for interesting data repositories online: there are a lot of options...
 
 Hints: 
 - [Upload data to colab](https://colab.research.google.com/notebooks/io.ipynb)
 - [keras with your own images](https://keras.io/api/data_loading/)
 
  
-
 **Fill in the Title and the Topic of your Projects until End of Week 4 [here](https://zhaw.sharepoint.com/:x:/r/sites/ZHAW-CLASS-DeptT-CASMAIN/Freigegebene%20Dokumente/DL/project-assignments-dl-fs26.xlsx?d=w610a5d96941b4827822ee3cbbbabc373&csf=1&web=1&e=K8MszJ)**
 
 ## Other resources 
@@ -53,6 +53,7 @@ We took inspiration (and sometimes slides / figures) from the following resource
 * Math concept videos at [3blue1brown](https://www.youtube.com/@3blue1brown)
 
 ## Dates & Topics
+
 The course is split in 8 sessions, each 4 lectures long. Topics might be adapted during the course
 
 | Day  |      Date    |      Time    |   Topic
