@@ -1,9 +1,14 @@
-## Previous Knowlegde
+---
+title: Prerequisite knowlegde required for course
+nav_order: 3
+---
+
+
+# Prerequisite knowlegde required for course
 
 To follow the course some prerequisites are required. 
 
-
-### Math calculus
+## Math calculus
 
 **Matrix Algebra**
 
@@ -23,7 +28,7 @@ You should know the basic descriptive statistics (mean, standard deviation, medi
 
 You might consider the following [cheat sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf) (tests are not required). 
 
-### Computer stuff
+## Computer stuff
 
 **Python and Jupyter Notebooks**
 
