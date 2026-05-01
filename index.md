@@ -7,8 +7,7 @@ nav_order: 1
 
 This course in deep learning focuses on practical aspects of deep learning. We therefore provide jupyter notebooks ([complete overview of all notebooks](https://github.com/deep-learning-ids/deep_learning_fs26/tree/main/notebooks) used in the course). 
 
-
-For doing the hands-on part we recommend to use google colab <a href="https://colab.research.google.com/"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="20"></a>. You will need an internet connection and may also need a google account. See the [instructions how to use google colab](co.md).
+For doing the hands-on part we recommend to use [google colab](https://colab.research.google.com). You will need an internet connection and may also need a google account. See the [instructions how to use google colab](co.md).
 
 If you want to do work locally (e.g. in order to avoid needing an internet connection) you can install anaconda ([details and installation instruction](co.md)). Please note that we are not experts in anaconda and thus can only give limited support. Some examples may require extra effort to run smoothly in a custom installation.
 
