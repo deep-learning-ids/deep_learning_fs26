@@ -2,5 +2,5 @@
 
 The DL Course 2026
 
-The course outline can be found under:
-URL
+Details and course outline: [Deep Learning FS26](https://deep-learning-ids.github.io/deep_learning_fs26/)
+
