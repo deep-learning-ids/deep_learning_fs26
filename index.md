@@ -3,6 +3,15 @@ title: Deep Learning (CAS machine intelligence, 2026)
 nav_order: 1
 ---
 
+
+<figure>
+  <img src="assets/AlexNet-architecture-sketch.png" style="width: 70%; display: block; margin: 0 auto;">
+  <figcaption style="text-align: center;">Sketch of the AlexNet deep neural network. A pivotal model in the history of deep learning.</figcaption>
+</figure>
+
+<br>
+
+
 # Deep Learning (CAS machine intelligence, 2026) 
 
 This course in deep learning focuses on practical aspects of deep learning. We therefore provide jupyter notebooks ([complete overview of all notebooks](https://github.com/deep-learning-ids/deep_learning_fs26/tree/main/notebooks) used in the course). 
